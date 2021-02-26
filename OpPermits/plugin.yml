@@ -1,0 +1,14 @@
+main: name.griffeth.sebastian.OpPermits.OpPermitsListener
+name: OpPermits
+version: 1.0
+author: DiamondWizard on github
+api-version: 1.16
+description: a permissions plugin
+commands:
+  command:
+  data:
+  load: 
+  op_mode: 
+  op_permits:
+  save: 
+  
